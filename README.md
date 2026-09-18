@@ -41,3 +41,62 @@ AI/ML • GENAI • BACKEND • DATA SYSTEMS • FULL-STACK
 ### ⚡ Building software at the intersection of **AI, data, and real-world problems**
 
 </div>
+
+
+<br>
+
+## 🧠 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+Building intelligent systems for:
+- Prediction & recommendation
+- Anomaly & fraud detection
+- Optimization
+- Generative AI applications
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
+Designing reliable backend systems with:
+- Python & FastAPI
+- REST APIs
+- Database-driven architectures
+- Authentication & security
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data & Decision Systems
+Working with:
+- Data processing & analytics
+- MCDM techniques
+- Knowledge graphs
+- Vector databases
+- Real-world data pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Engineering
+Developing complete applications using:
+- React + Vite
+- Modern JavaScript
+- API integration
+- Interactive dashboards
+- Docker & deployment workflows
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **My focus:** turning real-world problems into practical, data-driven software systems.
