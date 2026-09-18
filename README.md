@@ -124,8 +124,78 @@ API Integration
 
 <div align="center">
 
-# ⭐ Selected Engineering Work
 
-### Real-world systems I've designed, built, and experimented with.
+
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+# 🌾 FARMOPTIMA
+
+### Precision Agriculture Decision Intelligence
+
+**AI-powered agricultural decision-support & multi-objective resource optimization platform**
+
+<br>
+
+<img src="https://img.shields.io/badge/AI%2FML-Decision_Intelligence-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCDM-AHP_%7C_TOPSIS_%7C_ELECTRE-1E3A8A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimization-NSGA--II-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Satellite-Sentinel--2-166534?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 </div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+### 🎯 The Problem
+
+Farm decisions often depend on fragmented information about:
+
+- 🌱 Soil conditions
+- 🌦️ Weather
+- 🛰️ Satellite observations
+- 💧 Water availability
+- 🧪 Fertilizer requirements
+- 📈 Market conditions
+
+**FarmOptima brings these signals together into one decision-support system.**
+
+### 🧠 Decision Pipeline
+
+```text
+REAL-WORLD DATA
+      │
+      ├── Soil
+      ├── Weather
+      ├── Satellite
+      └── Market
+             │
+             ▼
+      DATA FOUNDATION
+             │
+             ▼
+    SUITABILITY ANALYSIS
+             │
+             ▼
+       MCDM ENGINE
+   AHP • TOPSIS • ELECTRE
+             │
+             ▼
+    NSGA-II OPTIMIZATION
+             │
+             ▼
+     FARM RECOMMENDATION
