@@ -122,28 +122,19 @@ API Integration
 
 ---
 
-<div align="center">
-
-
-
 <br>
 
 <div align="center">
 
 # 🌾 FARMOPTIMA
 
-### Precision Agriculture Decision Intelligence
+### PRECISION AGRICULTURE DECISION INTELLIGENCE
 
 **AI-powered agricultural decision-support & multi-objective resource optimization**
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/MCDM-AHP%20%7C%20TOPSIS%20%7C%20ELECTRE-1E3A8A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Optimization-NSGA--II-0F766E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Satellite-Sentinel--2-166534?style=flat-square"/>
+`AI / ML` · `GEOSPATIAL` · `MCDM` · `OPTIMIZATION` · `REAL-WORLD DATA`
 
 </div>
 
@@ -151,67 +142,129 @@ API Integration
 
 <table width="100%">
 <tr>
+<td align="center">
 
-<td width="50%" valign="top">
+### 🌱 SOIL
 
-### 🎯 The Problem
-
-Agricultural decisions depend on multiple changing signals:
-
-**🌱 Soil**  
-Soil properties and field conditions.
-
-**🌦️ Weather**  
-Rainfall and environmental conditions.
-
-**🛰️ Satellite**  
-Remote sensing and vegetation information.
-
-**💧 Resources**  
-Water and fertilizer requirements.
-
-**📈 Market**  
-Crop-market information for decision context.
-
-<br>
-
-**FarmOptima brings these signals together into a unified decision-support pipeline.**
+Field conditions  
+& soil intelligence
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-### 🧠 Decision Intelligence
+### 🌦️ WEATHER
+
+Environmental  
+conditions
+
+</td>
+
+<td align="center">
+
+### 🛰️ SATELLITE
+
+Sentinel-2  
+geospatial analysis
+
+</td>
+
+<td align="center">
+
+### 📈 MARKET
+
+Agricultural  
+market context
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 🧠 From Data → Decisions
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="33%" align="center">
+
+### 01
+
+**DATA FOUNDATION**
+
+Soil  
+Weather  
+Satellite  
+Market
+
+</td>
+
+<td width="34%" align="center">
+
+### 02
+
+**DECISION ENGINE**
+
+AHP  
+TOPSIS  
+ELECTRE  
+Suitability Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+### 03
+
+**OPTIMIZATION**
+
+NSGA-II  
+Water Planning  
+Fertilizer Planning  
+Crop Selection
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ```text
-┌─────────────────────┐
-│   REAL-WORLD DATA   │
-├─────────────────────┤
-│ Soil                │
-│ Weather             │
-│ Satellite           │
-│ Market              │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ DATA FOUNDATION     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ SUITABILITY ENGINE  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ MCDM                │
-│ AHP • TOPSIS        │
-│ ELECTRE             │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ NSGA-II             │
-│ OPTIMIZATION        │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ FARM RECOMMENDATION │
-└─────────────────────┘
+REAL-WORLD DATA
+       │
+       ▼
+┌──────────────────────┐
+│   DATA FOUNDATION    │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ SUITABILITY ANALYSIS │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│   MCDM DECISION      │
+│ AHP • TOPSIS •       │
+│ ELECTRE              │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│   NSGA-II            │
+│ MULTI-OBJECTIVE      │
+│ OPTIMIZATION         │
+└──────────┬───────────┘
+           │
+           ▼
+┌──────────────────────┐
+│ FARM RECOMMENDATION  │
+└──────────────────────┘
