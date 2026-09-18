@@ -45,53 +45,60 @@ AI/ML • GENAI • BACKEND • DATA SYSTEMS • FULL-STACK
 
 <br>
 
-## 🧠 What I Build
+
+<br>
+
+<div align="center">
+
+## 🚀 Engineering Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🤖 AI & Machine Learning
-Building intelligent systems for:
-- Prediction & recommendation
-- Anomaly & fraud detection
-- Optimization
-- Generative AI applications
+### 🤖
+**AI / ML**
 
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & APIs
-Designing reliable backend systems with:
-- Python & FastAPI
-- REST APIs
-- Database-driven architectures
-- Authentication & security
+Intelligent systems  
+Prediction  
+Anomaly Detection  
+Optimization
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 📊 Data & Decision Systems
-Working with:
-- Data processing & analytics
-- MCDM techniques
-- Knowledge graphs
-- Vector databases
-- Real-world data pipelines
+### 🧠
+**GenAI**
+
+RAG  
+LLM Applications  
+Knowledge Graphs  
+AI Assistants
 
 </td>
-<td width="50%" valign="top">
 
-### 🌐 Full-Stack Engineering
-Developing complete applications using:
-- React + Vite
-- Modern JavaScript
-- API integration
-- Interactive dashboards
-- Docker & deployment workflows
+<td align="center" width="25%">
+
+### ⚙️
+**Backend**
+
+Python  
+FastAPI  
+REST APIs  
+Data Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+**Full-Stack**
+
+React  
+Vite  
+Dashboards  
+API Integration
 
 </td>
 </tr>
@@ -99,4 +106,26 @@ Developing complete applications using:
 
 <br>
 
-> **My focus:** turning real-world problems into practical, data-driven software systems.
+<sub>
+
+**AI Systems** &nbsp;•&nbsp;
+**Data Engineering** &nbsp;•&nbsp;
+**Decision Intelligence** &nbsp;•&nbsp;
+**Generative AI** &nbsp;•&nbsp;
+**Backend Engineering**
+
+</sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# ⭐ Selected Engineering Work
+
+### Real-world systems I've designed, built, and experimented with.
+
+</div>
