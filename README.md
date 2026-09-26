@@ -12,6 +12,9 @@
 
 <a href="https://www.linkedin.com/in/mithleshyadav977/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B"/></a>&nbsp;
 <a href="https://github.com/MITHLESH55"><img src="https://img.shields.io/badge/GitHub-MITHLESH55-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B"/></a>&nbsp;
+<a href="https://leetcode.com/u/MITHLESH55/"><img src="https://img.shields.io/badge/LeetCode-MITHLESH55-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E293B"/></a>&nbsp;
+<a href="https://www.hackerrank.com/profile/mithleshyadav201"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E293B"/></a>
+<br><br>
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=1E293B&color=22C55E&label=Status&query=%24.status&url=https%3A%2F%2Fraw.githubusercontent.com%2FMITHLESH55%2FMITHLESH55%2Fmain%2Fstatus.json"/>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=MITHLESH55&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
@@ -28,8 +31,6 @@
 
 ## 👋 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AI_Gradient.svg"/>
-
 I build software at the intersection of **AI, data, and real-world problems** — from predictive ML models and RAG-powered assistants to production-grade backend systems and full-stack dashboards.
 
 - 🔭 Currently building **FarmOptima** — an AI-driven precision agriculture decision-support system
@@ -44,38 +45,21 @@ I build software at the intersection of **AI, data, and real-world problems** �
 
 ## 🚀 Engineering Focus
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
-<img width="55" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AI_Dark.svg"/><br>
-### AI / ML
-Intelligent systems<br>Prediction<br>Anomaly Detection<br>Optimization
+#### 🤖 AI / ML
+<img src="https://img.shields.io/badge/Intelligent_Systems-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Prediction-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Anomaly_Detection-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Optimization-1E293B?style=flat-square&color=6366F1"/>
 
-</td>
-<td align="center" width="25%">
+#### 🧠 GenAI
+<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square&color=2563EB"/> <img src="https://img.shields.io/badge/LLM_Applications-1E293B?style=flat-square&color=2563EB"/> <img src="https://img.shields.io/badge/Knowledge_Graphs-1E293B?style=flat-square&color=2563EB"/> <img src="https://img.shields.io/badge/AI_Assistants-1E293B?style=flat-square&color=2563EB"/>
 
-🧠<br>
-### GenAI
-RAG<br>LLM Applications<br>Knowledge Graphs<br>AI Assistants
+#### ⚙️ Backend
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&color=0EA5E9"/> <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&color=0EA5E9"/> <img src="https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&color=0EA5E9"/> <img src="https://img.shields.io/badge/Data_Systems-1E293B?style=flat-square&color=0EA5E9"/>
 
-</td>
-<td align="center" width="25%">
+#### 🌐 Full-Stack
+<img src="https://img.shields.io/badge/React-1E293B?style=flat-square&color=22C55E"/> <img src="https://img.shields.io/badge/Vite-1E293B?style=flat-square&color=22C55E"/> <img src="https://img.shields.io/badge/Dashboards-1E293B?style=flat-square&color=22C55E"/> <img src="https://img.shields.io/badge/API_Integration-1E293B?style=flat-square&color=22C55E"/>
 
-⚙️<br>
-### Backend
-Python<br>FastAPI<br>REST APIs<br>Data Systems
-
-</td>
-<td align="center" width="25%">
-
-🌐<br>
-### Full-Stack
-React<br>Vite<br>Dashboards<br>API Integration
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
@@ -209,24 +193,58 @@ Agentic, coordinated refund-abuse detection system — built for the **Razorpay 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
+## 🎓 Currently Learning & Sharpening
+
+<div align="center">
+<img src="https://img.shields.io/badge/Generative_AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Criteria_Decision_Making-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Geospatial_Analysis-16A34A?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-DC2626?style=for-the-badge"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
+
 ## 📊 GitHub Analytics
+
+<table width="100%">
+<tr>
+<td width="50%" align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=MITHLESH55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
+<td width="50%" align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHLESH55&layout=compact&theme=tokyonight&hide_border=true"/></td>
+</tr>
+</table>
+
+<div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MITHLESH55&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=MITHLESH55&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<div align="center">
+<img height="200" src="https://github-contributor-stats.vercel.app/api?username=MITHLESH55&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
+
+## 💻 Competitive Programming
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MITHLESH55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHLESH55&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://leetcode.com/u/MITHLESH55/">
+  <img src="https://leetcard.jacoblincool.workers.dev/MITHLESH55?theme=dark&font=baloo2&ext=heatmap" height="200"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/mithleshyadav201">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MITHLESH55&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MITHLESH55&theme=tokyo-night&hide_border=true&area=true"/>
-
-<br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=MITHLESH55&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<a href="https://leetcode.com/u/MITHLESH55/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/mithleshyadav201"><img src="https://img.shields.io/badge/View%20HackerRank%20Profile-181717?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
 
 </div>
 
@@ -280,7 +298,9 @@ Agentic, coordinated refund-abuse detection system — built for the **Razorpay 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mithleshyadav977/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/MITHLESH55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/MITHLESH55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/u/MITHLESH55/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>&nbsp;
+<a href="https://www.hackerrank.com/profile/mithleshyadav201"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
 <br><br>
 
@@ -349,5 +369,22 @@ GitHub sanitizes README HTML/CSS/JS — no real `<script>`, no CSS transitions/h
 3. **Visitor globe** — go to clustrmaps.com, register the repo, and swap the placeholder embed for the real one it gives you.
 
 4. **Status badge** — the small green "Status" badge reads `status.json` from your own repo root; add a tiny file like `{"status":"Building FarmOptima 🌾"}` and it updates whenever you edit that file.
+
+**Why the trophy / stats / activity-graph images sometimes show as broken:**
+I checked the trophy URL directly and it's currently returning a `402` error — the free public instances of `github-profile-trophy`, `github-readme-stats`, and `github-readme-activity-graph` all run on Vercel's free tier and periodically hit their shared bandwidth quota, so everyone using the default hosted URL sees broken images until it resets. This isn't specific to your profile or anything wrong in the README — it's a known, recurring issue with these popular free services. Two fixes:
+- **Wait it out** — usually resolves in a few hours as the shared quota resets.
+- **Self-host (permanent fix)** — fork the relevant repo and deploy your own instance for free on Vercel, then swap the domain in your README to your own:
+  - Stats/top-langs: fork [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) → "Deploy to Vercel" button in its README
+  - Trophy: fork [`ryo-ma/github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy) → same one-click deploy
+  - Activity graph: fork [`Ashutosh00710/github-readme-activity-graph`](https://github.com/Ashutosh00710/github-readme-activity-graph)
+  - Once deployed, replace `github-readme-stats.vercel.app` / `github-profile-trophy.vercel.app` / `github-readme-activity-graph.vercel.app` in this file with your own `*.vercel.app` URL.
+
+**A GitHub-wide limitation, not a bug in this file:** GitHub's markdown renderer sizes `<table>` elements to fit their content rather than stretching them to the full container width, and it strips `style="..."` attributes for security — so a literal edge-to-edge table isn't something any README can force. The badge-row layouts (Engineering Focus, Currently Learning, Tech Stack) sidestep this by using wrapping image badges instead of table columns, since those genuinely reflow to fill the available width; the two-column stats table above will size to whatever GitHub allows, generally close to full width once the images load.
+
+**On LeetCode / HackerRank:**
+- Your LeetCode profile (checked live) currently shows **28 problems solved** (26 Java, 2 C), ranked ~3.8M globally — the `leetcard.jacoblincool.workers.dev` card in the new Competitive Programming section pulls this live, so it updates automatically as you solve more.
+- HackerRank blocks automated fetching (robots-disallowed), so I couldn't pull real badge/stats data from `mithleshyadav201` directly — linked the profile with a badge button instead. If you want your actual HackerRank badges (e.g. 5★ Problem Solving) shown as images, copy the badge image URLs from your HackerRank profile page and send them over and I'll drop them in.
+
+**On "shrink":** the streak stats, activity graph, and contributor cards had been stretched to `width="100%"` in the last version, which blows raster images up past their native resolution and makes them blurry on a wide screen. Reverted those to fixed heights (140–200px) so they render crisp — full-width stretching only really helps for vector graphics (the capsule-render banners/dividers), not these PNG/SVG stat cards.
 
 </details>
