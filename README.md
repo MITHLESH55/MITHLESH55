@@ -79,34 +79,23 @@ React<br>Vite<br>Dashboards<br>API Integration
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
-## 🌾 Featured Project — FarmOptima
-
-<div align="center">
-
-### PRECISION AGRICULTURE DECISION INTELLIGENCE
-**AI-powered agricultural decision-support & multi-objective resource optimization**
-
-`AI/ML` · `GEOSPATIAL` · `MCDM` · `OPTIMIZATION` · `REAL-WORLD DATA`
-
-</div>
+## 🚀 Pinned Projects
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">🌱 <b>SOIL</b><br><sub>Field & soil intelligence</sub></td>
-<td align="center" width="25%">🌦️ <b>WEATHER</b><br><sub>Environmental conditions</sub></td>
-<td align="center" width="25%">🛰️ <b>SATELLITE</b><br><sub>Sentinel-2 geospatial analysis</sub></td>
-<td align="center" width="25%">📈 <b>MARKET</b><br><sub>Agricultural market context</sub></td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-| Stage | Focus | Techniques |
-|---|---|---|
-| **01 · Data Foundation** | Soil, Weather, Satellite, Market | Multi-source ingestion & fusion |
-| **02 · Decision Engine** | Suitability Analysis | AHP · TOPSIS · ELECTRE |
-| **03 · Optimization** | Water & Fertilizer Planning, Crop Selection | NSGA-II Multi-Objective Optimization |
+### 🌾 [FarmOptima](https://github.com/MITHLESH55/FarmOptima)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+AI-powered smart farming and agricultural optimization platform — precision decision-support blending soil, weather, satellite and market data.
+
+<details>
+<summary><sub>🔍 How it works</sub></summary>
+<br>
 
 ```text
-REAL-WORLD DATA
+REAL-WORLD DATA (Soil · Weather · Satellite · Market)
        │
        ▼
 ┌──────────────────────┐
@@ -115,28 +104,74 @@ REAL-WORLD DATA
            ▼
 ┌──────────────────────┐
 │ SUITABILITY ANALYSIS │
-└──────────┬───────────┘
-           ▼
-┌──────────────────────┐
-│   MCDM DECISION      │
 │ AHP • TOPSIS •       │
 │ ELECTRE              │
 └──────────┬───────────┘
            ▼
 ┌──────────────────────┐
-│   NSGA-II            │
-│ MULTI-OBJECTIVE      │
-│ OPTIMIZATION         │
+│   NSGA-II             │
+│ MULTI-OBJECTIVE       │
+│ OPTIMIZATION          │
 └──────────┬───────────┘
            ▼
 ┌──────────────────────┐
-│ FARM RECOMMENDATION  │
+│ FARM RECOMMENDATION   │
 └──────────────────────┘
 ```
 
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [LogSentrix](https://github.com/MITHLESH55/LogSentrix)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+AI-based log monitoring and threat detection system with real-time analysis, anomaly detection, and an attack visualization dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [Real-Time-Financial-Fraud-Detection-System](https://github.com/MITHLESH55/Real-Time-Financial-Fraud-Detection-System)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+An intelligent fraud detection framework leveraging AI and Multi-Criteria Decision-Making to analyze transaction risk in real time — ensemble fraud detection, risk scoring, and transaction monitoring.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍⚖️ [legal-ai-navigator](https://github.com/MITHLESH55/legal-ai-navigator)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+AI-powered legal assistant using Groq/Gemini LLMs, a Neo4j knowledge graph, and a Qdrant vector database, containerized with Docker.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧘 [NeuroWell-UI](https://github.com/MITHLESH55/NeuroWell-UI)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+Front-end interface for a neuro-wellness product — clean, component-driven UI work in JavaScript.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [RiskOrbit](https://github.com/MITHLESH55/RiskOrbit)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+Agentic, coordinated refund-abuse detection system — built for the **Razorpay AI Buildathon 2026, Track 02**.
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<a href="https://github.com/MITHLESH55/FarmOptima">
-  <img src="https://img.shields.io/badge/View%20Repository-FarmOptima-2F855A?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/MITHLESH55?tab=repositories">
+  <img src="https://img.shields.io/badge/See%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
