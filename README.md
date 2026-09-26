@@ -250,10 +250,10 @@ Agentic, coordinated refund-abuse detection system — built for the **Razorpay 
 
 <br>
 
-### 🧊 3D Isometric Contribution Calendar
+### 📅 Contribution Calendar
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/main/github-metrics.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/58A6FF/MITHLESH55" width="100%" alt="MITHLESH55 GitHub contribution calendar"/>
 </div>
 
 ### 🐍 Contribution Snake
@@ -262,7 +262,7 @@ Agentic, coordinated refund-abuse detection system — built for the **Razorpay 
 <img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Both the isometric calendar and the snake are generated images that need a one-time GitHub Action each — see **Setup Notes** below.
+> The **contribution calendar** above renders live (via `ghchart`) with zero setup. The **snake** is a generated image with no live URL — it stays blank until you add its one-time GitHub Action (see **Setup Notes** below).
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
@@ -287,8 +287,15 @@ Agentic, coordinated refund-abuse detection system — built for the **Razorpay 
 ## 🌍 Visitors
 
 <div align="center">
-<a href="https://clustrmaps.com/site/1c4x8" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?d=YOUR_CLUSTRMAPS_ID&cl=ffffff&w=500" width="480"/></a>
-<br><sub>Generate your own free map at clustrmaps.com and drop the embed code in place of the placeholder above.</sub>
+
+<img src="https://profile-counter.glitch.me/MITHLESH55/count.svg" alt="Visitor count"/>
+
+<br><br>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MITHLESH55.MITHLESH55&left_text=Profile%20Visitors&left_color=1E293B&right_color=58A6FF"/>
+
+<br><sub>Live visitor counter — increments automatically on every profile view. No setup required.</sub>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
