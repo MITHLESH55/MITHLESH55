@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:1E3A8A,100:0F172A&height=250&section=header&text=MITHLESH%20YADAV&fontSize=46&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=AI%2FML%20ENGINEER%20%C2%B7%20FULL-STACK%20DEVELOPER&descAlignY=52&descSize=18&descColor=93C5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:1E3A8A,100:0F172A&height=250&section=header&text=MITHLESH%20YADAV&fontSize=46&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=AI%2FML%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=52&descSize=18&descColor=93C5FD" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/>
 
@@ -19,82 +19,117 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=MITHLESH55&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,postgres,mongodb,neo4j,docker,git,github,linux&perline=11&theme=dark" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F172A,50:2563EB,100:1E3A8A&height=64&section=header&text=AI%2FML%20%C2%B7%20GENAI%20%C2%B7%20BACKEND%20%C2%B7%20DATA%20SYSTEMS%20%C2%B7%20FULL-STACK&fontSize=17&fontColor=FFFFFF&fontAlignY=52&width=100%"/>
-
-## 👋 About Me — Engineering Identity
-
-I build software at the intersection of **AI, data, and real-world decisions** — from predictive ML models and RAG-powered assistants to production-grade backend systems and full-stack dashboards. I care about turning messy, real-world signals into systems that make defensible decisions.
-
-- 🔭 Currently building **FarmOptima** — an AI-driven precision-agriculture decision-support system
-- 🧠 Exploring **GenAI, RAG pipelines, and knowledge graphs**
-- ⚙️ Comfortable across the stack: **Python / FastAPI → React → PostgreSQL / MongoDB / Neo4j**
-- 🌱 Deepening: optimization algorithms, geospatial analysis, multi-criteria decision systems
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mithleshyadav977/)**
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
-## 🚀 Featured Projects
+## 👋 About Me
+
+I build software at the intersection of **AI, data, and real-world problems** — from predictive ML models and RAG-powered assistants to production-grade backend systems and full-stack dashboards.
+
+- 🔭 Currently building **FarmOptima** — an AI-driven precision agriculture decision-support system
+- 🧠 Exploring **GenAI, RAG pipelines, and knowledge graphs**
+- ⚙️ Comfortable across the stack: **Python/FastAPI → React → PostgreSQL / MongoDB / Neo4j**
+- 🌱 Always learning: optimization algorithms, geospatial analysis, multi-criteria decision systems
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mithleshyadav977/)**
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
+
+## 🚀 Engineering Focus
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:2563EB&height=42&section=header&text=FarmOptima&fontSize=20&fontColor=FFFFFF&fontAlignY=54&width=72%"/>
+#### 🤖 AI / ML
+<img src="https://img.shields.io/badge/Intelligent_Systems-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Prediction-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Anomaly_Detection-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Optimization-1E293B?style=flat-square&color=6366F1"/>
 
-<img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/main/assets/farmoptima.png" width="82%" alt="FarmOptima — AI precision-agriculture decision-support dashboard"/>
+#### 🧠 GenAI
+<img src="https://img.shields.io/badge/RAG-1E293B?style=flat-square&color=2563EB"/> <img src="https://img.shields.io/badge/LLM_Applications-1E293B?style=flat-square&color=2563EB"/> <img src="https://img.shields.io/badge/Knowledge_Graphs-1E293B?style=flat-square&color=2563EB"/> <img src="https://img.shields.io/badge/AI_Assistants-1E293B?style=flat-square&color=2563EB"/>
 
-### 🌾 [FarmOptima](https://github.com/MITHLESH55/FarmOptima)
+#### ⚙️ Backend
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&color=0EA5E9"/> <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&color=0EA5E9"/> <img src="https://img.shields.io/badge/REST_APIs-1E293B?style=flat-square&color=0EA5E9"/> <img src="https://img.shields.io/badge/Data_Systems-1E293B?style=flat-square&color=0EA5E9"/>
 
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&color=0EA5E9"/> <img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&color=0EA5E9"/> <img src="https://img.shields.io/badge/MCDM-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/NSGA--II-1E293B?style=flat-square&color=2563EB"/>
-
-AI-driven precision-agriculture decision-support — fuses soil, weather, satellite & market data, ranks crop suitability with **AHP / TOPSIS / ELECTRE**, and optimizes competing objectives via **NSGA-II**.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:6366F1&height=42&section=header&text=RiskOrbit&fontSize=20&fontColor=FFFFFF&fontAlignY=54&width=72%"/>
-
-<img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/main/assets/riskorbit.png" width="82%" alt="RiskOrbit — agentic refund-abuse risk intelligence"/>
-
-### 🎯 [RiskOrbit](https://github.com/MITHLESH55/RiskOrbit)
-
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&color=0EA5E9"/> <img src="https://img.shields.io/badge/Agentic_AI-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Risk_Intelligence-1E293B?style=flat-square&color=DC2626"/>
-
-Agentic, coordinated refund-abuse detection — multiple cooperating agents score transaction risk in real time. Built for the **Razorpay AI Buildathon 2026, Track 02**.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,100:22C55E&height=42&section=header&text=LogSentrix&fontSize=20&fontColor=FFFFFF&fontAlignY=54&width=72%"/>
-
-<img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/main/assets/logsentrix.png" width="82%" alt="LogSentrix — AI log monitoring & threat-detection dashboard"/>
-
-### 🛡️ [LogSentrix](https://github.com/MITHLESH55/LogSentrix)
-
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&color=0EA5E9"/> <img src="https://img.shields.io/badge/Anomaly_Detection-1E293B?style=flat-square&color=6366F1"/> <img src="https://img.shields.io/badge/Threat_Detection-1E293B?style=flat-square&color=DC2626"/>
-
-AI-based log monitoring and threat detection — real-time log analysis, anomaly detection, and an attack-visualization dashboard.
+#### 🌐 Full-Stack
+<img src="https://img.shields.io/badge/React-1E293B?style=flat-square&color=22C55E"/> <img src="https://img.shields.io/badge/Vite-1E293B?style=flat-square&color=22C55E"/> <img src="https://img.shields.io/badge/Dashboards-1E293B?style=flat-square&color=22C55E"/> <img src="https://img.shields.io/badge/API_Integration-1E293B?style=flat-square&color=22C55E"/>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
-## 📦 More Projects
+## 🚀 Pinned Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💳 [Real-Time Financial Fraud Detection](https://github.com/MITHLESH55/Real-Time-Financial-Fraud-Detection-System)
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&color=0EA5E9"/>
+### 🌾 [FarmOptima](https://github.com/MITHLESH55/FarmOptima)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-Fraud framework blending AI + Multi-Criteria Decision-Making — ensemble scoring, risk ranking, and real-time transaction monitoring.
+AI-powered smart farming and agricultural optimization platform — precision decision-support blending soil, weather, satellite and market data.
+
+<details>
+<summary><sub>🔍 How it works</sub></summary>
+<br>
+
+```text
+REAL-WORLD DATA (Soil · Weather · Satellite · Market)
+       │
+       ▼
+┌──────────────────────┐
+│   DATA FOUNDATION    │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│ SUITABILITY ANALYSIS │
+│ AHP • TOPSIS •       │
+│ ELECTRE              │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│   NSGA-II             │
+│ MULTI-OBJECTIVE       │
+│ OPTIMIZATION          │
+└──────────┬───────────┘
+           ▼
+┌──────────────────────┐
+│ FARM RECOMMENDATION   │
+└──────────────────────┘
+```
+
+</details>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [LogSentrix](https://github.com/MITHLESH55/LogSentrix)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+AI-based log monitoring and threat detection system with real-time analysis, anomaly detection, and an attack visualization dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 [Real-Time-Financial-Fraud-Detection-System](https://github.com/MITHLESH55/Real-Time-Financial-Fraud-Detection-System)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+An intelligent fraud detection framework leveraging AI and Multi-Criteria Decision-Making to analyze transaction risk in real time — ensemble fraud detection, risk scoring, and transaction monitoring.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧑‍⚖️ [legal-ai-navigator](https://github.com/MITHLESH55/legal-ai-navigator)
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&color=0EA5E9"/> <img src="https://img.shields.io/badge/Neo4j-1E293B?style=flat-square&logo=neo4j&color=008CC1"/> <img src="https://img.shields.io/badge/Qdrant-1E293B?style=flat-square&color=DC244C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-Legal assistant on Groq/Gemini LLMs with a Neo4j knowledge graph + Qdrant vector DB, containerized with Docker.
+AI-powered legal assistant using Groq/Gemini LLMs, a Neo4j knowledge graph, and a Qdrant vector database, containerized with Docker.
 
 </td>
 </tr>
@@ -102,21 +137,27 @@ Legal assistant on Groq/Gemini LLMs with a Neo4j knowledge graph + Qdrant vector
 <td width="50%" valign="top">
 
 ### 🧘 [NeuroWell-UI](https://github.com/MITHLESH55/NeuroWell-UI)
-<img src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&color=F7DF1E"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-Front-end for a neuro-wellness product — clean, component-driven UI work.
+Front-end interface for a neuro-wellness product — clean, component-driven UI work in JavaScript.
 
 </td>
 <td width="50%" valign="top">
 
-### ➕ Explore the rest
-<br>
+### 🎯 [RiskOrbit](https://github.com/MITHLESH55/RiskOrbit)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
-[**⟶ See All Repositories**](https://github.com/MITHLESH55?tab=repositories)
+Agentic, coordinated refund-abuse detection system — built for the **Razorpay AI Buildathon 2026, Track 02**.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[**⟶ See All Repositories**](https://github.com/MITHLESH55?tab=repositories)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
@@ -152,35 +193,52 @@ Front-end for a neuro-wellness product — clean, component-driven UI work.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
-## 🧭 Engineering Practices
+## 🎓 Currently Learning & Sharpening
 
 <div align="center">
-
-| Principle | How I apply it |
-|:--|:--|
-| **API-first design** | Typed FastAPI schemas, clean REST contracts, auto OpenAPI docs |
-| **Containerized delivery** | Docker for reproducible dev → prod parity |
-| **Right store for the job** | Relational (PostgreSQL), document (MongoDB) & graph (Neo4j) modeling |
-| **Disciplined version control** | Git feature branches, readable commit history |
-| **End-to-end ML lifecycle** | Data foundation → modeling → evaluation → decision output |
-
+<img src="https://img.shields.io/badge/Generative_AI-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-2563EB?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Criteria_Decision_Making-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Geospatial_Analysis-16A34A?style=for-the-badge&logo=googleearth&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-DC2626?style=for-the-badge"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
 
-## 💻 DSA / Open Source
+## 📊 GitHub Analytics
+
+<table width="100%">
+<tr>
+<td width="50%" align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=MITHLESH55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
+<td width="50%" align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MITHLESH55&layout=compact&theme=tokyonight&hide_border=true"/></td>
+</tr>
+</table>
 
 <div align="center">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MITHLESH55&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img height="200" src="https://github-readme-activity-graph.vercel.app/graph?username=MITHLESH55&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
+
+## 💻 Competitive Programming
+
+<div align="center">
+
+<img src="https://leetcard.jacoblincool.workers.dev/MITHLESH55?theme=dark&font=baloo2&ext=heatmap" height="200"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 &nbsp;
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-<br><br>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MITHLESH55&theme=tokyonight&hide_border=true"/>
-
 </div>
+
+<br>
 
 ### 📅 Contribution Calendar
 
@@ -191,7 +249,40 @@ Front-end for a neuro-wellness product — clean, component-driven UI work.
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/MITHLESH55/MITHLESH55/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
+
+## 🌍 Visitor Analytics
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F172A,50:2563EB,100:1E3A8A&height=54&section=header&text=LIVE%20PROFILE%20TRAFFIC&fontSize=18&fontColor=FFFFFF&fontAlignY=46&desc=auto-updates%20on%20every%20view&descSize=11&descAlignY=74&descColor=93C5FD" width="72%"/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=MITHLESH55&label=Total%20Profile%20Views&color=58A6FF&style=for-the-badge&labelColor=1E293B"/>
+</td>
+<td align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MITHLESH55.MITHLESH55&left_text=Unique%20Visitors&left_color=1E293B&right_color=58A6FF"/>
+</td>
+</tr>
+</table>
+
+<sub>🔒 Live anonymous counters. GitHub never exposes <b>who</b> viewed a profile, and no free service plots per-day visitor graphs — so these track <b>how many</b>, updating on every view.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
+
+## 💬 Random Dev Wisdom
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=4&width=100%"/>
@@ -217,12 +308,6 @@ Front-end for a neuro-wellness product — clean, component-driven UI work.
 <img src="https://img.shields.io/badge/Generative_AI-1E293B?style=flat-square&color=6D28D9"/>
 <img src="https://img.shields.io/badge/Backend_Engineering-1E293B?style=flat-square&color=22C55E"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MITHLESH55&label=Profile%20Views&color=58A6FF&style=flat-square&labelColor=1E293B"/>
-&nbsp;
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MITHLESH55.MITHLESH55&left_text=Unique%20Visitors&left_color=1E293B&right_color=58A6FF"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:1E3A8A,100:0F172A&height=140&section=footer&animation=fadeIn" width="100%"/>
@@ -230,58 +315,46 @@ Front-end for a neuro-wellness product — clean, component-driven UI work.
 ---
 
 <details>
-<summary><b>⚙️ Setup Notes — one-time steps to make everything live (click to expand)</b></summary>
+<summary><b>⚙️ Setup Notes — what's live now vs. what needs a one-time step (click to expand)</b></summary>
 
 <br>
 
-GitHub sanitizes README HTML/CSS/JS — no `<script>`, no CSS hovers, no real 3D. Everything that looks animated or "3D" above is a **pre-rendered GIF, `capsule-render` gradient/cylinder banner, or generated SVG**. That's the hard ceiling for profile READMEs.
+GitHub sanitizes README HTML/CSS/JS — no `<script>`, no CSS hovers/transitions, no real 3D rendering. Everything that looks animated or "3D" above is a **pre-rendered GIF, gradient banner, or generated SVG**. That's the hard ceiling for profile READMEs.
 
-**1. Project screenshots (required for the Featured Projects section)**
-The three featured cards load images from an `assets/` folder in your `MITHLESH55/MITHLESH55` repo. Until you add them, those three images show as broken. To fix:
-- Create a folder `assets/` in the repo root.
-- Drop three PNG/JPG screenshots named exactly:
-  - `assets/farmoptima.png`
-  - `assets/riskorbit.png`
-  - `assets/logsentrix.png`
-- Recommended: ~1280×720, real UI/dashboard shots. Commit to `main` — the cards render instantly.
+**Live immediately, no setup:**
+- Waving header/footer + soft gradient banners — `capsule-render`
+- Typing headline — `readme-typing-svg`
+- Streak stats, contribution calendar (`ghchart`), dev-quote card, skill icons, all shield badges
+- Visitor counters — `komarev` + `visitor-badge` (anonymous counts; GitHub never reveals *who* viewed)
 
-**2. Contribution snake** — add `.github/workflows/snake.yml`, then run it once from the **Actions** tab (uses the built-in `GITHUB_TOKEN`, no secret needed):
-```yaml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-  push: { branches: [main] }
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions: { contents: write }
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: MITHLESH55
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with: { target_branch: output, build_dir: dist }
-        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
-```
+**Needs a one-time action in your `MITHLESH55/MITHLESH55` repo:**
 
-**3. Status badge** — add a `status.json` at the repo root, e.g. `{"status":"Building FarmOptima 🌾"}`. The green **Status** badge reads it and updates whenever you edit that file.
+1. **Contribution snake** — add `.github/workflows/snake.yml`, then run it once from the **Actions** tab. Uses the built-in `GITHUB_TOKEN`, no secret needed:
+   ```yaml
+   name: Generate Snake
+   on:
+     schedule: [{cron: "0 */12 * * *"}]
+     workflow_dispatch:
+     push: { branches: [main] }
+   jobs:
+     generate:
+       runs-on: ubuntu-latest
+       permissions: { contents: write }
+       steps:
+         - uses: Platane/snk@v3
+           id: snake
+           with:
+             github_user_name: MITHLESH55
+             outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+         - uses: crazy-max/ghaction-github-pages@v4
+           with: { target_branch: output, build_dir: dist }
+           env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
+   ```
 
-**Live immediately, no setup:** waving/cylinder banners & gradient dividers (`capsule-render`), typing headline (`readme-typing-svg`), streak stats, contribution calendar (`ghchart`), skill/shield badges, and the profile-view + unique-visitor counters (`komarev` + `visitor-badge` — anonymous counts; GitHub never reveals *who* viewed).
+2. **Status badge** — add a `status.json` file to your repo root, e.g. `{"status":"Building FarmOptima 🌾"}`. The green badge reads it and updates whenever you edit that file.
 
----
+3. **Reliable stats / activity / LeetCode cards** — the stats, top-languages, activity-graph and LeetCode cards use free public instances (Vercel / Cloudflare) that periodically hit shared bandwidth limits and show as broken. For images that never break, self-host your own free instances and swap the domain:
+   - Stats + top-langs (one deploy covers both): [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats) → **Deploy to Vercel** → replace `github-readme-stats.vercel.app`
+   - Activity graph: [`Ashutosh00710/github-readme-activity-graph`](https://github.com/Ashutosh00710/github-readme-activity-graph) → replace `github-readme-activity-graph.vercel.app`
 
-## Design decisions I made for you
-
-Per your instruction to decide as the senior designer, here's what I chose and why:
-
-- **Layout follows your wireframe exactly**: Hero → focus band → About/Identity → 3 screenshot projects → Tech Stack → Engineering Practices → DSA/Open Source → Connect.
-- **Featured 3 = FarmOptima, RiskOrbit, LogSentrix** with large screenshot cards (as you drew). The other 3 repos moved to a compact "More Projects" grid — keeps recruiters focused on your strongest work without hiding the rest.
-- **Real 3D**: I used `capsule-render` `type=cylinder` for the focus band and `type=soft` cover banners on each project — those are the only genuine 3D-look primitives GitHub allows.
-- **Broken-image cards removed**: the stats/top-langs/activity/LeetCode-heatmap cards (Vercel/Cloudflare quota breakage) are gone. Only reliable services remain, so nothing renders broken — *except the 3 screenshots until you add them* (Setup step 1).
-- **Added "Engineering Practices"** — a credibility signal recruiters actually read, backed by your real stack (FastAPI, Docker, PG/Mongo/Neo4j).
-- **Dropped Trophy Case + heavy Visitor section + Dev Wisdom** to keep the senior, uncluttered look your wireframe implies; kept a slim live view/visitor counter above the footer so you don't lose the metric.
-
-**The one thing blocking a perfect render:** I cannot generate screenshots of your apps — no one can from outside your repos. Add the 3 PNGs (Setup step 1) and the Featured section is complete. If you'd rather not use screenshots, tell me and I'll swap those slots for designed gradient cover cards that never break.
+</details>
